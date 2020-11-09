@@ -1,0 +1,3 @@
+include ':app-iot'
+include ':app-mobile'
+rootProject.name = "Android-PN532-Kotlin"
