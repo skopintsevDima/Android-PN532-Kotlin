@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android-PN532-Kotlin</string>
+    <string name="hce_service_description">Sample HCE Service</string>
+    <string name="aid_group_description">Other</string>
 </resources>
