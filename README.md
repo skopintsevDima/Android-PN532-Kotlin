@@ -33,7 +33,7 @@ How to toggle into I2C
   You can read more about Android Things apps [here](https://developer.android.com/things/training/first-device).
 
 # Useful links
-1) I GOT MOST OF CODE THERE: https://github.com/hsilomedus/raspi-pn532
+1) I TOOK MOST PART OF THE CODE FROM THERE: https://github.com/hsilomedus/raspi-pn532
 2) https://www.nxp.com/docs/en/user-guide/141520.pdf
 3) https://www.smartjac.biz/index.php/support/main-menu?view=kb&kbartid=3
 4) https://osoyoo.com/2017/07/20/pn532-nfc-rfid-module-for-raspberry-pi/
